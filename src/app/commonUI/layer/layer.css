@@ -52,3 +52,11 @@ a:hover {
     color: #d95b43;
     text-decoration: underline;
 }
+
+main {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    max-width: 960px;
+    font-family: Optima, Calibri, sans-serif;
+}
