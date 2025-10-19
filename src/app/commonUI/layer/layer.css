@@ -60,3 +60,17 @@ main {
     max-width: 960px;
     font-family: Optima, Calibri, sans-serif;
 }
+
+footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    padding: 1em 0;
+    text-transform: uppercase;
+    background-color: #543437;
+}
+
+footer p {
+    padding: 0 1.5em;
+}
