@@ -1,1 +1,11 @@
 /* You can add global styles to this file, and also import other style files */
+body {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+    min-height: 100vh;
+    font-family: Optima, Calibri, sans-serif;
+    background-color: #221900;
+    color: #ecd078;
+}
